@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failed="0" tests="1">
+<testcase classname="Reset functionality on login page of Application" name="Verification of application" time="41199">
+<system-out><![CDATA[Given Open the Chrome and launch the application..............................................passed
+When Enter the Username and Password....................................................passed
+Then Reset the credential..........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
